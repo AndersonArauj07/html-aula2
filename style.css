@@ -1,15 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: 'Roboto' , sans-serif;
+}
 table {
     border-collapse: collapse;
     width: 60%;
 }
-
-th,
-td {
-    border: 1px solid #ccc;
+th, td {
+    border: 1px solid #ccc; 
     padding: 8px;
 }
-
-th {
+th{
     background-color: #2a7ae2;
     color: white;
 }
